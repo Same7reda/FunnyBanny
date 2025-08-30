@@ -1,0 +1,7 @@
+{
+  "name": "Nursery Management System",
+  "description": "A comprehensive system to manage children's data, attendance, staff, and invoicing for a nursery. It provides an admin dashboard with key statistics and a portal for parents to track their children's progress and payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
